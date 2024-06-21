@@ -1,25 +1,16 @@
 import React, { useEffect, useState } from 'react';
-import axios from 'axios';
+
+// Import your local JSON data
+import headlinesData from '../headlines.json';
 
 const Ticker = () => {
     const [headlines, setHeadlines] = useState([]);
     const [tickerIndex, setTickerIndex] = useState(0);
 
     useEffect(() => {
-        const fetchHeadlines = async () => {
-            const apiKey = 'afe0be49500349008d504648e4826890';
-            const url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=${apiKey}`;
-
-            try {
-                const response = await axios.get(url);
-                const articles = response.data.articles.map(article => article.title);
-                setHeadlines(articles);
-            } catch (error) {
-                console.error('Error fetching headlines:', error);
-            }
-        };
-
-        fetchHeadlines();
+        // Extract articles array from headlinesData
+        const articles = headlinesData.articles.map(article => article.title);
+        setHeadlines(articles);
     }, []);
 
     useEffect(() => {

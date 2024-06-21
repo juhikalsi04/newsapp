@@ -55,6 +55,7 @@ export default function Category() {
 
     return (
         <div>
+            <div className="heading-category mx-4"><h2><b>Choose Your Topic..</b></h2></div>
             <div className="card-container">
                 {categories.map((category, index) => (
                     <div

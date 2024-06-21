@@ -97,18 +97,19 @@ body {
   overflow-y: scroll;
   flex: 1;
 }
+.headlines-list::-webkit-scrollbar {
+  display: none; 
+}
 .news-list {
   display: flex;
   justify-content: space-between;
-  gap: 20px;
-}
-.headlines-list::-webkit-scrollbar {
-  display: none; 
+  margin-bottom: 20px; /* Adjust as needed */
 }
 
 .lhs {
   flex: 2; 
   min-width: 0; 
+  margin-right: 25px;
 }
 
 .rhs {
@@ -116,7 +117,35 @@ body {
   min-width: 0;
 }
 
+
+.pagination {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.pagination span {
+  margin: 0 10px;
+}
+
+.pagination button {
+  padding: 5px 10px;
+  background-color: #ff0d00;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.pagination button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+
 .main-news-item, .news-headlines {
+  margin-top: 15px;
   height: 100%;
   overflow-y: auto;
 }
@@ -234,8 +263,9 @@ body {
   display: flex;
   flex-direction:row;
   justify-content:space-around;
-  padding: 20px;
+  padding: 0px;
   overflow-x: auto;
+  margin-left: 15px;
 }
 
 .card {
@@ -378,5 +408,32 @@ body {
   .news-list .rhs {
       width: 100%;
       margin-bottom: 20px;
+  }
+
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .carousel-caption h5 {
+    font-size: .8rem;
+    color: #fff;
+  }
+  .carousel-item img {
+    max-height: 200px;
+    object-fit: cover;
+    
+  }
+  
+ }
+
+.carousel-caption p {
+  display: block;
+}
+
+@media (max-width: 767.98px) {
+  .carousel-caption p {
+      display: none;
   }
 }

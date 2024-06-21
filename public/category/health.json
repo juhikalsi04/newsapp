@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medscape"
+            },
+            "author": "Ninel  Gregori, MD",
+            "title": "Retinitis Pigmentosa: What's New in Diagnosis and Treatment? - Medscape",
+            "description": "Dr Ninel Gregori reviews current retinitis pigmentosa diagnosis and treatment guidelines.",
+            "url": "https://www.medscape.com/viewarticle/q-retinitis-pigmentosa-whats-new-diagnosis-and-treatment-2024a1000bex",
+            "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240612_blind_man_crosswalk_800x450.jpg",
+            "publishedAt": "2024-06-20T18:12:23Z",
+            "content": "Retinitis pigmentosa (RP) comprises a group of genetic disorders with heterogeneous clinical presentation that may lead to vision loss. Timely diagnosis and intervention are essential for improving t… [+5201 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "Efficacy study of indigenous transcatheter valve published in Lancet - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/news/national/tamil-nadu/efficacy-study-of-indigenous-transcatheter-valve-published-in-lancet/article68307843.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-06-20T16:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zoom"
+            },
+            "author": "Pallavi Mehra",
+            "title": "Gulshan Devaiah Has Been Following OMAD Diet Since 2018: Know Its Health Benefits Here - Times Now",
+            "description": "Dahaad actor Gulshan Devaiah has revealed that he has been eating only one meal a day (OMAD) since 2018. He explained that this routine allows him to eat what he wants without strict dieting. But what is an OMAD diet? Read on to know its health benefits here.",
+            "url": "https://www.timesnownews.com/health/diet/gulshan-devaiah-has-been-following-omad-diet-since-2018-know-its-health-benefits-here-article-111146121",
+            "urlToImage": "https://static.tnn.in/thumb/msid-111146135,thumbsize-63136,width-1280,height-720,resizemode-75/111146135.jpg",
+            "publishedAt": "2024-06-20T16:30:00Z",
+            "content": "Michigan Tornado: Kent, Ionia Counties On Alert, Warnings In Grand Rapids And Lansing"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com India",
+            "title": "Healthy BMI, no smoking effective ways to reduce risk of kidney cancer: Experts - Investing.com India",
+            "description": null,
+            "url": "https://in.investing.com/news/general-news/healthy-bmi-no-smoking-effective-ways-to-reduce-risk-of-kidney-cancer-experts-4264287",
+            "urlToImage": null,
+            "publishedAt": "2024-06-20T14:49:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Health News 18: Study: Walking Helps Prevent Lower Back Pain - WLFITV",
+            "description": "If you're one of the 600 million people worldwide impacted by lower back pain, a new study found that walking can help.",
+            "url": "https://www.youtube.com/watch?v=uVYAbMc11K4",
+            "urlToImage": "https://i.ytimg.com/vi/uVYAbMc11K4/maxresdefault.jpg",
+            "publishedAt": "2024-06-20T14:38:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "UPI.com"
+            },
+            "author": null,
+            "title": "Eating nuts may help with weight loss - UPI News",
+            "description": "Folks dieting to drop pounds should consider eating a fistful of nuts here and there, a new review suggests.",
+            "url": "https://www.upi.com",
+            "urlToImage": "https://cdnph.upi.com/sv/ph/og/i/7601718892514/2024/1/17188938214704/v1.5/Eating-nuts-may-help-with-weight-loss.jpg",
+            "publishedAt": "2024-06-20T14:31:36Z",
+            "content": "Folks dieting to drop pounds should consider eating a fistful of nuts here and there, a new review suggests.\r\nPeople who ate 1.5 to 3 ounces of almonds, peanuts, pistachios or walnuts daily as part o… [+2190 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medscape"
+            },
+            "author": "Marilynn Larkin",
+            "title": "Do Artificial Sweeteners Really Help People With Diabetes? - Medscape",
+            "description": "The answer is NOT a resounding yes.",
+            "url": "https://www.medscape.com/viewarticle/do-artificial-sweeteners-really-help-people-diabetes-2024a1000bhv",
+            "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt_240619_splenda_sweetner_800x450.jpg",
+            "publishedAt": "2024-06-20T14:23:42Z",
+            "content": "It seems intuitive that because people with type 2 diabetes (T2D) generally need to avoid sugar, clinicians should recommend eating foods and using recipes containing artificial sweeteners such as su… [+10406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "AI-based blood test predicts Parkinson seven years before onset | WION Dispatch - WION",
+            "description": "A new study has introduced a blood test using AI to predict Parkinson's disease up to seven years before symptoms. Watch in for more details!#bloodtest #park...",
+            "url": "https://www.youtube.com/watch?v=IXJXrop6bEQ",
+            "urlToImage": "https://i.ytimg.com/vi/IXJXrop6bEQ/maxresdefault.jpg",
+            "publishedAt": "2024-06-20T14:21:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Kelsey Costa, MS, RDN",
+            "title": "Could a high-fat diet promote anxiety? - Medical News Today",
+            "description": "High-fat diets, like the typical Western diet, may alter the gut microbiome and gut-brain signaling, contributing to changes that promote anxiety, a study in rats finds.",
+            "url": "https://www.medicalnewstoday.com/articles/high-fat-diet-may-disrupt-gut-bacteria-fuel-anxiety",
+            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/06/high-fat-diet-Stocksy_txp64647a07Rkx300_Medium_2456676-Facebook.jpg",
+            "publishedAt": "2024-06-20T14:12:28Z",
+            "content": "<ul><li>High-fat diets, like the typical Western diet, have been associated with obesity and mental health disorders like anxiety.</li><li>A new study in rats suggests that obesity caused by a high-f… [+8892 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xm.com"
+            },
+            "author": null,
+            "title": "Vaccine group Gavi seeks $9 billion to immunise world's poorest children - XM",
+            "description": "The XM Research Desk, manned by market expert professionals, provides live daily updates on all the major events of the global markets in the form of market reviews, forex news, technical analysis, investment topics, daily outlook and daily videos.",
+            "url": "https://www.xm.com/research/markets/allNews/reuters/vaccine-group-gavi-seeks-9-billion-to-immunise-worlds-poorest-children-53864651",
+            "urlToImage": "https://assets.xm-cdn.com/news/reuters-images/2024-06-20T141654Z_1_QF5_RTRLXPP_2_LYNXPACKAGER__JPG",
+            "publishedAt": "2024-06-20T14:08:11Z",
+            "content": "&lt;html xmlns=\"http://www.w3.org/1999/xhtml\"&gt;&lt;head&gt;&lt;title&gt;UPDATE 1-Vaccine group Gavi seeks $9 billion to immunise world's poorest children&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Adds … [+2711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ahmedabadmirror.com"
+            },
+            "author": null,
+            "title": "Doctors may soon be able to detect, diagnose cancer using AI: Study - Ahmedabad Mirror",
+            "description": "Doctors may soon be able to detect, diagnose cancer using AI: Study",
+            "url": "https://www.ahmedabadmirror.com/doctors-may-soon-be-able-to-detect-diagnose-cancer-using-ai-study/81869499.html",
+            "urlToImage": "https://media.ahmedabadmirror.com/am/uploads/mediaGallery/image/1718890307323.jpg-org",
+            "publishedAt": "2024-06-20T13:34:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Fear Food Challenge: People With Eating Disorders React To Viral TikTok Trend - India Today",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=aZTwOeOcLLQ",
+            "urlToImage": null,
+            "publishedAt": "2024-06-20T13:17:37Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VOGUE India"
+            },
+            "author": "Calin Van Paris",
+            "title": "6 foods to eat when you're on an anti-inflammatory diet - VOGUE India",
+            "description": "From berries to sardines, an anti-inflammatory diet can help reduce the inflammation in your body—read more here.",
+            "url": "https://www.vogue.in/content/6-foods-to-eat-when-youre-on-an-anti-inflammatory-diet",
+            "urlToImage": "https://assets.vogue.in/photos/66740c1fb440b00fe4766d35/16:9/w_1280,c_limit/Lemon.jpeg",
+            "publishedAt": "2024-06-20T13:15:54Z",
+            "content": "If eating certain foods is difficult, supplements can fill in the gaps, agrees Wilson. There are a wide variety of fibre supplements, from Metamucil to fibre sodas, fish-oil supplements from reputabl… [+3327 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mediabrief.com"
+            },
+            "author": "NewsDesk",
+            "title": "82% of women aware of menstrual health issues, yet only 7% educated on them: Noise - Mediabrief",
+            "description": "The latest survey by Noise reveals that 82% of women recognize they have menstrual health issues, indicating high self-awareness.",
+            "url": "https://mediabrief.com/noise-x-luna-ring/",
+            "urlToImage": "https://mediabrief.com/wp-content/uploads/2024/06/Image-noise-x-luna-ring-MediaBrief.jpg",
+            "publishedAt": "2024-06-20T12:53:27Z",
+            "content": "The latest survey by Noise reveals that 82% of women recognize they have menstrual health issues, indicating high self-awareness. However, less than 7% of women have received education about these is… [+5082 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Here's Why & How You Can Protect Your Heart From The Summer Heat - NDTV",
+            "description": "Here we discuss how the summer heat impacts your heart and how can you take care of it better.",
+            "url": "https://www.ndtv.com/health/heres-why-how-you-can-protect-your-heart-from-the-summer-heat-5931669",
+            "urlToImage": "https://c.ndtvimg.com/2024-05/b14vo1ig_sehat-vehat-heat-wave-heart-health_625x300_28_May_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
+            "publishedAt": "2024-06-20T12:21:29Z",
+            "content": "Individuals with heart conditions may find their symptoms worsening in high heat\r\nSummer heat can be detrimental to heart health due to several factors. High temperatures increase heart rate as the b… [+3416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PMLiVE"
+            },
+            "author": null,
+            "title": "WHO publishes latest report on development of antibacterial agents worldwide - PMLiVE",
+            "description": "AMR is designated as one of the top ten global public health threats facing humanity",
+            "url": "https://pmlive.com/pharma_news/who-publishes-latest-report-on-development-of-antibacterial-agents-worldwide/",
+            "urlToImage": "https://pmlive.com/wp-content/uploads/2024/02/WHO_building_logo.jpg",
+            "publishedAt": "2024-06-20T11:31:35Z",
+            "content": "The World Health Organization (WHO) has published its latest report on antibacterial agents, including antibiotics, which are in clinical and preclinical development worldwide.\r\nThe annual report aim… [+2277 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET HealthWorld",
+            "title": "Family history could affect development of siblings of children with autism, study finds - ETHealthWorld",
+            "description": "Information about family history could also guide parents and pediatricians in monitoring and supporting the development of infants with risk factors for disorders such as autism, according to Chawarska.",
+            "url": "https://health.economictimes.indiatimes.com/news/industry/family-history-could-affect-development-of-siblings-of-children-with-autism-study-finds/111139926",
+            "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-111139926,imgsize-44370,width-1200,height=765,overlay-ethealth/industry/family-history-could-affect-development-of-siblings-of-children-with-autism-study-finds.jpg",
+            "publishedAt": "2024-06-20T11:05:03Z",
+            "content": "New Delhi: Younger siblings of children with autism could experience more developmental difficulties, especially if they have relatives with conditions such as delayed speech, anxiety or schizophreni… [+2330 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Drug Target Review"
+            },
+            "author": null,
+            "title": "New AI process for accurate enrolment of patients to clinical trial - Drug Target Review",
+            "description": "The AI model screened the medical records of heart failure patients more accurately, quickly and cheaply, compared to study staff.",
+            "url": "https://www.drugtargetreview.com/news/151057/new-ai-process-for-accurate-enrolment-of-patients-to-clinical-trial/",
+            "urlToImage": "https://www.drugtargetreview.com/wp-content/uploads/shutterstock_1415786840-scaled.jpg",
+            "publishedAt": "2024-06-20T11:02:37Z",
+            "content": "Posted: 20 June 2024 | Drug Target Review | No comments yet\r\nThe AI model screened the medical records of heart failure patients more accurately, quickly and cheaply, compared to study staff. \r\nResea… [+3179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "UN News"
+            },
+            "author": null,
+            "title": "Noting 'End of AIDS Is in Sight', Deputy Secretary-General Urges Building on Immense Progress Made, Finishing Job - Welcome to the United Nations",
+            "description": "I am delighted to deliver these remarks on behalf of the Secretary-General.  I thank the Joint United Nations Programme on HIV/AIDS (UNAIDS), Executive Director Winnie Byanyima and all those involved in the Joint Programme, for their tireless work.  I also ap…",
+            "url": "https://india.un.org/en/272076-noting-%E2%80%98end-aids-sight%E2%80%99-deputy-secretary-general-urges-building-immense-progress-made",
+            "urlToImage": "https://india.un.org/profiles/undg_country/themes/custom/undg/images/un-flag.png",
+            "publishedAt": "2024-06-20T11:01:14Z",
+            "content": "I am delighted to deliver these remarks on behalf of the Secretary-General.  I thank the Joint United Nations Programme on HIV/AIDS (UNAIDS), Executive Director Winnie Byanyima and all those involved… [+2959 chars]"
+        }
+    ]
+}
